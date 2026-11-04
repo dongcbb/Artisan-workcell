@@ -1,0 +1,29 @@
+{
+  "scene_id": "workcell-v4",
+  "format": "nht-checkpoint-with-normalized-cameras",
+  "checkpoint": "ckpt_9999_rank0.pt",
+  "camera_bundle": "cameras.npz",
+  "camera_names": "camera-names.json",
+  "num_cameras": 202,
+  "source_project": "/home/cy518/workspace/dcb/NHT-reproduction",
+  "source_result": "/home/cy518/workspace/dcb/NHT-reproduction/results/workcell-v4/nht-10k",
+  "metric_alignment_verified": false,
+  "files": {
+    "camera-names.json": "3e3b517880ce57ce32b4aab661d0bdcb9130a13958e77f48706a60b34cbf036a",
+    "cameras.npz": "e75584ffb8d9aec992b764457a64acaad36f550dee47afb155f8df3468c44ee9",
+    "ckpt_9999_rank0.pt": "686a009b456597820aa2d0f28d20dd1e54e97eaa2e2127237cc9bd11568e3af8",
+    "colmap-sparse/cameras.bin": "896e71abdec80aacff88e50304838f61def2ae8b6d1f7bdd86de87127b88c3c5",
+    "colmap-sparse/frames.bin": "845f374a696d3f86c68fdc14482f00eab17f6f0aaa89289e4a0cde3487e71a29",
+    "colmap-sparse/images.bin": "2c7b6c5ef6371d3edbf66c852cd568e51b96ec5a9b92cfe29f47d14f56dff751",
+    "colmap-sparse/points3D.bin": "07a677bf0b47bb0de30d0198a3b62c9e162150af4c95271f1403b6d61ba31e68",
+    "colmap-sparse/rigs.bin": "7e549cc97825e5b4991d6639e2bc3f4a6737fdb49c2a87c3658448d0d7649206",
+    "provenance/REPORT.md": "2e2b19e1df039f9ea2bdb41058333d7e79b277bad6731fadc30ae756cee9ffee",
+    "provenance/report.json": "904dc958facfbb1fa8144ef3c18dabc6a2ec59af5293284e3bf846a5d4d04d81",
+    "provenance/run-config.json": "198969b5427645e5237c43e8037b70e8bd18545b7a9360f8ea3e4624506b5857",
+    "provenance/source-revisions.txt": "cd2da2e52807cdd4805fde3879cb0124d6a9b74015807c1d6344203796f7d2c6",
+    "provenance/split-manifest.json": "b76db12be04e3cae16e49144a41fd8ef523a234078fac8e560652ec002bc9f9f"
+  },
+  "runtime_environment": "re3sim-tools",
+  "runtime_source": "vendor/gsplat-nht",
+  "runtime_external_project_required": false
+}

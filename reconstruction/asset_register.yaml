@@ -1,0 +1,163 @@
+scene: workcell-v4
+status: reference_inventory
+coordinate_frame: table_A_origin_x_long_edge_y_toward_whiteboard_z_up
+simulation_target: mujoco
+items:
+  - id: primary_workbench
+    description: Complete green-top workbench with light metal edge, curved legs, crossbars, adjustment rails and casters.
+    count: 1
+    role: static
+    priority: P0
+    overall_dimensions_m: [1.20, 0.60, 0.75]
+    overall_dimensions_evidence: [measured_or_user_confirmed, measured_or_user_confirmed, measured_or_user_confirmed]
+    tabletop_thickness_m: 0.03
+    tabletop_thickness_evidence: unknown
+    top_surface_z_m: 0.75
+    top_surface_z_evidence: measured_or_user_confirmed
+    reference_views: [IMG_0161, IMG_0166, IMG_0167]
+    artisan: one asset with fixed links for the top and frame; preserve gaps and visible leg curvature, do not invent a moving height-adjustment joint
+
+  - id: cardboard_carton
+    description: Open brown cardboard shipping boxes stored under and beside the main workbench.
+    count: multiple
+    role: static_instances
+    priority: P1
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0158, IMG_0159, IMG_0163, IMG_0164, IMG_0167]
+    artisan: create one reusable hollow carton variant, then place instances from multiview evidence
+
+  - id: desktop_pc_tower
+    description: Black PC tower with three vertically arranged illuminated front fans and cables on top.
+    count: 1
+    role: static
+    priority: P1
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0158, IMG_0160, IMG_0163, IMG_0164]
+    artisan: model case and front fan geometry; treat loose cables as separate static detail only if needed
+
+  - id: desktop_cable_bundle
+    description: Loose black and white cables coiled on the computer tower and beside the workbench.
+    count: grouped
+    role: static_visual_detail
+    priority: P2
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0158, IMG_0160, IMG_0163, IMG_0166]
+    artisan: use a few simplified static cable curves after the large objects are placed; do not build a cable dynamics model
+
+  - id: adjacent_workbench_and_drawers
+    description: Dark neighboring bench with a light work surface and storage drawers along the rear/right side.
+    count: 1
+    role: static_with_possible_drawers
+    priority: P1
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0158, IMG_0159, IMG_0165, IMG_0166]
+    artisan: establish the carcass first; model drawer joints only where photos show their geometry and travel
+
+  - id: whiteboard_panel
+    description: Large white vertical board/panel behind the workbench, with a small hanging label.
+    count: 1
+    role: static
+    priority: P1
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0160, IMG_0161, IMG_0165, IMG_0166]
+    artisan: rigid board plus stand/mount; keep text as a texture or omit unreadable text
+
+  - id: office_chair
+    description: Black wheeled office chair beside the neighboring computer desk.
+    count: 1
+    role: static
+    priority: P2
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0160, IMG_0161, IMG_0165, IMG_0167]
+    artisan: use one rigid chair asset unless chair movement matters to the task
+
+  - id: monitor_keyboard_mouse
+    description: Black computer monitor with keyboard and mouse on the neighboring work surface.
+    count: 1
+    role: static_instances
+    priority: P2
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0160, IMG_0161, IMG_0165]
+    artisan: make a simple monitor and peripheral set; screen content is not needed
+
+  - id: mobile_robot_platform
+    description: Small low wheeled experimental robot platform visible on the floor to the left of the workbench.
+    count: 1
+    role: static
+    priority: P2
+    dimensions_m: unknown
+    evidence: unknown
+    reference_views: [IMG_0161, IMG_0163, IMG_0165]
+    artisan: identify the platform from its clearer source frames or defer; do not infer its internal drive model
+
+  - id: rolling_equipment_case
+    description: Large low black hard case or equipment cabinet with metal trim and wheels behind the cartons.
+    count: 1
+    role: static
+    priority: P2
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0158, IMG_0159, IMG_0165, IMG_0166]
+    artisan: model as one rigid object; include visible latches and rails only if they matter at scene scale
+
+  - id: camera_or_lamp_stand
+    description: Slim black upright stand with a small horizontal device at the top near the bench.
+    count: 1
+    role: static
+    priority: P2
+    dimensions_m: unknown
+    evidence: unknown
+    reference_views: [IMG_0159, IMG_0161, IMG_0162, IMG_0166]
+    artisan: defer identity and geometry until the object is identified from source frames
+
+  - id: side_table_objects
+    description: Trays, a bottle, a gray rounded container and small objects on the neighboring work surface.
+    count: multiple
+    role: static_instances
+    priority: P2
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0160, IMG_0161, IMG_0164, IMG_0167]
+    artisan: model only items needed for visual similarity or later manipulation tasks
+
+  - id: nero_dual_arm
+    description: AgileX NERO dual-arm assembly on its floor stand, positioned outside the near edge of the green tabletop.
+    count: 1
+    role: articulated_robot
+    priority: P0
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: []
+    placement_relative_to_A_m: [0.25, -0.10, -0.17]
+    yaw_deg: 90
+    artisan: use a validated robot model; do not generate robot kinematics from photographs
+
+  - id: nero_floor_pedestal
+    description: Pedestal and top mounting plate supporting the dual-arm robot beside the near edge of the primary workbench.
+    count: 1
+    role: static_support
+    priority: P0
+    dimensions_m: unknown
+    evidence: visual_estimate
+    center_relative_to_A_xy_m: [0.25, -0.10]
+    estimated_height_m: 0.58
+    height_evidence: unverified_visualization_assumption
+    reference_views: []
+    artisan: model as a fixed support only after checking clearer reference imagery or measuring the real stand
+
+  - id: floor_and_room_boundary
+    description: Light floor and limited wall/background planes needed to frame the photographed workcell.
+    count: 1
+    role: static_scene_geometry
+    priority: P2
+    dimensions_m: unknown
+    evidence: visual_estimate
+    reference_views: [IMG_0158, IMG_0166]
+    artisan: use simple scene geometry unless detailed surfaces become task relevant

@@ -1,0 +1,86 @@
+{
+  "status": "USER_ACCEPTED_APPROXIMATE_VISUAL_BASE_POSITION",
+  "official_asset": "assets/robots/open-nero/official/urdf/dual_nero_isaac.usd",
+  "table_alignment": "configs/workcells/workcell-v4-table-accepted.json",
+  "tabletop_world_z_m": 0.75,
+  "table_coordinate_definition": "A=PC/front; +X along 1.2 m edge; +Y towards whiteboard; +Z upward from tabletop",
+  "stand": {
+    "description": "Official OPEN NERO dual-arm pedestal stand; shape represented by an editable box placeholder",
+    "position_table_xy_m": [
+      0.25,
+      -0.1
+    ],
+    "height_m": 0.58,
+    "column_size_xy_m": [
+      0.16,
+      0.16
+    ],
+    "base_size_xy_m": [
+      0.3,
+      0.26
+    ],
+    "top_plate_size_xy_m": [
+      0.22,
+      0.22
+    ],
+    "plate_thickness_m": 0.02,
+    "dimensions_verified": false,
+    "height_basis": "Preview support extends from assumed floor z=0 to installation base at world z=0.58 m; this is not a measured stand height"
+  },
+  "platform_base_table_m": [
+    0.25,
+    -0.1,
+    -0.17
+  ],
+  "base_position_measurement": {
+    "source": "User-reported approximate distances on 2026-10-25; latest clarification: base center is 17 cm lower than tabletop",
+    "reference_point": "A on the tabletop",
+    "target_point": "Dual-arm whole-platform installation base center, confirmed by user",
+    "horizontal_m": 0.25,
+    "front_back_m": 0.1,
+    "height_relative_to_tabletop_m": -0.17,
+    "height_direction": "Below tabletop, final clarification by user",
+    "xy_sign_basis": "Use the existing +X and +Y directions from A; explicit directional measurement remains to be verified",
+    "usd_reference_prim": "/World/dual_nero/base_link",
+    "usd_reference_basis": "Map the reported installation base center to the official model base_link origin for this preview; physical reference-point correspondence remains to be verified"
+  },
+  "platform_yaw_deg": 90,
+  "robot_position_verified": false,
+  "gripper": "Official OPEN NERO gripper assembly from upstream Isaac USD; confirm if it matches the separately purchased factory parallel gripper",
+  "cameras": "Official USD camera meshes and mounts included; active RGB-D sensor rendering not configured",
+  "base_position_adjustment": {
+    "source": "User corrected the retreat direction to the opposite of +Y",
+    "edge": "Front tabletop edge through A (Y=0), on its outside (-Y)",
+    "center_to_edge_m": 0.1,
+    "side": "outside tabletop footprint",
+    "interpretation": "Move towards -Y and place base center 10 cm outside the A-side edge; original +Y placement was rejected",
+    "previous_table_position_m": [
+      0.25,
+      0.5,
+      -0.17
+    ],
+    "effective_table_position_m": [
+      0.25,
+      -0.1,
+      -0.17
+    ],
+    "measurement_note": "Original approximate measurements remain in base_position_measurement; this placement adjustment overrides effective Y"
+  },
+  "base_position_review": {
+    "status": "USER_ACCEPTED_APPROXIMATE_VISUAL_PLACEMENT",
+    "user_feedback": "差不多是这个位置",
+    "date": "2026-10-25",
+    "accepted_table_position_m": [
+      0.25,
+      -0.1,
+      -0.17
+    ],
+    "accepted_world_position_m": [
+      0.25,
+      -0.1,
+      0.58
+    ],
+    "scope": "Approximate visual translation acceptance; yaw, model reference-point correspondence and real robot calibration remain unverified"
+  },
+  "environment_usd": "assets/workcell-v4/physics/run-20261025-122516-471406/collision.usdc"
+}

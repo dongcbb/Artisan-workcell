@@ -18,6 +18,8 @@ output/
 outputs/
 node_modules/
 viewer/web/dist/
+/reconstruction/references/workcell-v4/images/
+/reconstruction/runs/
 *.tsbuildinfo
 .DS_Store
 .idea/

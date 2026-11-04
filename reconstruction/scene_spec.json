@@ -1,0 +1,42 @@
+{
+  "scene_id": "workcell-v4",
+  "project_status": "reference_inventory",
+  "simulation_target": "MuJoCo",
+  "coordinate_frame": {
+    "origin": "A, near/front corner of the primary tabletop",
+    "x_axis": "along the 1.20 m tabletop edge",
+    "y_axis": "toward the whiteboard",
+    "z_axis": "up",
+    "units": "meters"
+  },
+  "primary_table": {
+    "dimensions_m": [1.2, 0.6, 0.75],
+    "dimension_meaning": "overall_length_width_top_height",
+    "dimension_status": "user_confirmed_scene_reference",
+    "top_thickness_m": 0.03,
+    "top_thickness_status": "unverified_visualization_assumption"
+  },
+  "robot": {
+    "model": "AgileX NERO dual-arm",
+    "base_position_relative_to_A_m": [0.25, -0.1, -0.17],
+    "yaw_deg": 90,
+    "placement_status": "user_accepted_approximate_visual_placement",
+    "physical_calibration_verified": false,
+    "robot_model": "source_and_simulator_import_pending"
+  },
+  "reference_data": {
+    "images": "references/workcell-v4/images/",
+    "image_count": 202,
+    "contact_sheet": "references/workcell-v4/frame-contact-sheet.jpg",
+    "camera_poses": "references/workcell-v4/metadata/cameras.npz",
+    "camera_names": "references/workcell-v4/metadata/camera-names.json",
+    "metadata_origin": "copied_from_prior_workcell_reconstruction"
+  },
+  "assembly": {
+    "world_gravity_m_s2": [0.0, 0.0, -9.81],
+    "floor_height_m": null,
+    "asset_registry": "asset_register.yaml",
+    "scene_file": "scenes/workcell_v4.xml",
+    "scene_file_status": "not_created"
+  }
+}

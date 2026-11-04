@@ -1,0 +1,227 @@
+{
+  "status": "USER_ACCEPTED_VISUAL_ALIGNMENT",
+  "normalized_nht_to_table_m": [
+    [
+      1.046231490931942,
+      -0.15335519768766961,
+      0.045761187303838484,
+      0.31603412826521193
+    ],
+    [
+      -0.15998077775548433,
+      -1.0102300758939335,
+      0.2721278744396523,
+      0.2639485842224178
+    ],
+    [
+      0.004248961053192967,
+      -0.27591595213120346,
+      -1.0217947784308037,
+      -0.3314153140936411
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "table_dimensions_m": [
+    1.2,
+    0.6,
+    0.75
+  ],
+  "metric_alignment_verified": false,
+  "camera_poses_optimized": false,
+  "solver": "shared 7-parameter similarity, fixed cameras, robust soft-L1 reprojection loss",
+  "num_fit_views": 4,
+  "num_validation_views": 1,
+  "scale_m_per_nht_unit": 1.05840079154305,
+  "triangulation_angles_degrees": [
+    101.30342693251689,
+    104.59912420964137,
+    83.8309298062009,
+    83.23175093807663
+  ],
+  "per_view": [
+    {
+      "index": 0,
+      "role": "fit",
+      "corner_errors_pixels": [
+        3.453279871160291,
+        4.942179195090517,
+        4.611445041943356,
+        11.74894943239806
+      ],
+      "rms_pixels": 6.993810034681688,
+      "max_pixels": 11.74894943239806,
+      "initial_rms_pixels": 19.91449881640733,
+      "projected_ABCD_pixels": [
+        [
+          904.1323356579036,
+          365.0440677681424
+        ],
+        [
+          1620.85560240617,
+          235.44498851954828
+        ],
+        [
+          1298.5001619915895,
+          157.54302940839509
+        ],
+        [
+          628.0133139867792,
+          236.97349373107426
+        ]
+      ]
+    },
+    {
+      "index": 35,
+      "role": "fit",
+      "corner_errors_pixels": [
+        6.304647809332735,
+        7.042674915818727,
+        10.672910084481295,
+        6.634177711840098
+      ],
+      "rms_pixels": 7.862429293057661,
+      "max_pixels": 10.672910084481295,
+      "initial_rms_pixels": 17.962496754884594,
+      "projected_ABCD_pixels": [
+        [
+          146.93966076936115,
+          289.8163601297231
+        ],
+        [
+          1735.8395585261262,
+          615.2866516975688
+        ],
+        [
+          1719.1516406362045,
+          319.08019684252116
+        ],
+        [
+          552.3901479682407,
+          133.23485691111546
+        ]
+      ]
+    },
+    {
+      "index": 66,
+      "role": "fit",
+      "corner_errors_pixels": [
+        2.7604286008766596,
+        2.907212199362932,
+        12.389704335247783,
+        4.096381073055922
+      ],
+      "rms_pixels": 6.825631110806,
+      "max_pixels": 12.389704335247783,
+      "initial_rms_pixels": 27.613525997210413,
+      "projected_ABCD_pixels": [
+        [
+          306.6473129613667,
+          130.63087342159466
+        ],
+        [
+          810.4162471427978,
+          533.883316842955
+        ],
+        [
+          1302.130486232009,
+          349.68370872233606
+        ],
+        [
+          706.8377223620838,
+          50.6498186364018
+        ]
+      ]
+    },
+    {
+      "index": 129,
+      "role": "fit",
+      "corner_errors_pixels": [
+        1.3084756283606496,
+        4.876907977781164,
+        7.376954477519481,
+        6.9089618344950114
+      ],
+      "rms_pixels": 5.649105037252864,
+      "max_pixels": 7.376954477519481,
+      "initial_rms_pixels": 13.147690761550852,
+      "projected_ABCD_pixels": [
+        [
+          357.6577350424965,
+          899.8009075506349
+        ],
+        [
+          1638.5461529302447,
+          923.9273314429852
+        ],
+        [
+          1480.5847087566244,
+          647.4783850012185
+        ],
+        [
+          524.4327536054201,
+          634.8360411998804
+        ]
+      ]
+    },
+    {
+      "index": 180,
+      "role": "validation",
+      "corner_errors_pixels": [
+        3.589511030156104,
+        1.504966047330328,
+        12.185341831250739,
+        12.991355908674352
+      ],
+      "rms_pixels": 9.116021557257126,
+      "max_pixels": 12.991355908674352,
+      "initial_rms_pixels": 20.022047060186683,
+      "projected_ABCD_pixels": [
+        [
+          212.98920007621942,
+          598.0408841842298
+        ],
+        [
+          1106.2855252715178,
+          958.3869235215766
+        ],
+        [
+          1415.624553715647,
+          672.2211597446449
+        ],
+        [
+          600.751864224287,
+          454.3536667662431
+        ]
+      ]
+    }
+  ],
+  "validation_used_in_fit": false,
+  "review_flags": {
+    "fit_max_error_over_6px": true,
+    "validation_max_error_over_8px": true
+  },
+  "limitations": [
+    "Clicks on NHT renderings are visual alignment observations, not independent physical calibration",
+    "Reconstruction distortions and camera pose errors may prevent one rigid table from fitting every view",
+    "No automatic modification of the accepted scene or robot placement"
+  ],
+  "initial_alignment_source": "outputs/workcell-v4/table-preview/manual-20261025-114108-622272/alignment.json",
+  "observations": "outputs/workcell-v4/alignment/multiview/run-20261025-114657-187868/solutions/solve-20261025-115131-733477/observations.json",
+  "solution_directory": "outputs/workcell-v4/alignment/multiview/run-20261025-114657-187868/solutions/solve-20261025-115131-733477",
+  "generated_from": "Explicitly user-confirmed autosaved session",
+  "scene": "workcell-v4",
+  "candidate_source": "outputs/workcell-v4/alignment/multiview/run-20261025-114657-187868/solutions/solve-20261025-115131-733477/candidate-transform.json",
+  "tabletop_z_m": 0,
+  "tabletop_thickness_m": 0.03,
+  "thickness_source": "Provisional visualization assumption; not measured",
+  "collision_asset": "assets/workcell-v4/collision-preview/table.usda",
+  "scope": "Active multiview visual preview; prior accepted table alignment retained separately",
+  "previous_accepted_alignment": "outputs/workcell-v4/alignment/multiview/run-20261025-114657-187868/solutions/solve-20261025-115131-733477/reviews/accepted-20261025-115841-149963/previous-table-accepted.json",
+  "user_review": "User said 可以了 after viewing the multiview-corrected simulation on 2026-10-25; visual acceptance only",
+  "acceptance_record": "outputs/workcell-v4/alignment/multiview/run-20261025-114657-187868/solutions/solve-20261025-115131-733477/reviews/accepted-20261025-115841-149963/accepted-table.json"
+}

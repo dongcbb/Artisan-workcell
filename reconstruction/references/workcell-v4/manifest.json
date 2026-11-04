@@ -1,0 +1,1018 @@
+{
+  "source_scene": "workcell-v4",
+  "image_count": 202,
+  "image_format": "PNG",
+  "image_origin": "copied from the prior scene capture dataset; undistorted source views",
+  "files": [
+    {
+      "path": "images/IMG_0158/frame-000010.png",
+      "size_bytes": 2566259,
+      "sha256": "533465d3eb628da64518d7749750e7f95305ff5d7cfc1a76a4e19ec557fb3867"
+    },
+    {
+      "path": "images/IMG_0158/frame-000020.png",
+      "size_bytes": 2551660,
+      "sha256": "3a245f3fb692c34456eb706583bf663211b2ba7bc5649a6598309ea7eafd95cc"
+    },
+    {
+      "path": "images/IMG_0158/frame-000040.png",
+      "size_bytes": 2296733,
+      "sha256": "194a781e46cdecbdc6ad7b87c87291c23bfa65b1d73d4cc3bea31b18eacc4269"
+    },
+    {
+      "path": "images/IMG_0158/frame-000060.png",
+      "size_bytes": 2236053,
+      "sha256": "68d06bf7e9eb34900199d4c8ef47035bfc8fe654e0a4c620a3a31c2642f611b4"
+    },
+    {
+      "path": "images/IMG_0158/frame-000085.png",
+      "size_bytes": 2342261,
+      "sha256": "669cb715f9a098742d906f193382d8341c3eac1398be1e224c677b89fcb5d595"
+    },
+    {
+      "path": "images/IMG_0158/frame-000110.png",
+      "size_bytes": 2399803,
+      "sha256": "1fa412c8eed02e62415019eb75cfe313beac677b9aebc61e4af82f24cddbfdf8"
+    },
+    {
+      "path": "images/IMG_0158/frame-000120.png",
+      "size_bytes": 2314684,
+      "sha256": "1853d27e70a6380392556e6ed7af61b1a09e1bafbb4394ac08a135a3013715f5"
+    },
+    {
+      "path": "images/IMG_0158/frame-000150.png",
+      "size_bytes": 2218219,
+      "sha256": "63bc8db9b335ee4310e2a45a8cc16a96f8c3b55ad02c028ebd01de01563025fc"
+    },
+    {
+      "path": "images/IMG_0158/frame-000160.png",
+      "size_bytes": 2304084,
+      "sha256": "81d57fe447df63b05fd0aadbdb552415cd01a7feb34091d62cdaf362d2e1e37d"
+    },
+    {
+      "path": "images/IMG_0158/frame-000180.png",
+      "size_bytes": 2150499,
+      "sha256": "03df1e3fbc6cbc3ef2411cf9087349308d87192c50a9a4bbc6c3af189627289c"
+    },
+    {
+      "path": "images/IMG_0158/frame-000205.png",
+      "size_bytes": 2143680,
+      "sha256": "1c3b8d79e4eb9d0b0b1d390cd333cc27331fcc5dc2c0fe96f18970281bb8e5fd"
+    },
+    {
+      "path": "images/IMG_0158/frame-000235.png",
+      "size_bytes": 2192812,
+      "sha256": "85b662d03c8438fd02e22486b87dcd04ba49aab91299bd0b73108959f13bc251"
+    },
+    {
+      "path": "images/IMG_0158/frame-000240.png",
+      "size_bytes": 2137244,
+      "sha256": "027ee3d60cbc947fbd5f314b89b3280e393d00d3fe8624cd3d076fece4aab257"
+    },
+    {
+      "path": "images/IMG_0158/frame-000275.png",
+      "size_bytes": 2255592,
+      "sha256": "ea7480f883280675a5173a8d9c8305413b6cb93a46515794c6d171abcb44490b"
+    },
+    {
+      "path": "images/IMG_0158/frame-000280.png",
+      "size_bytes": 1824103,
+      "sha256": "84e365ce205c5226e76790e3ca9a81ab03b49bad00ff172ba47df34a195fddd0"
+    },
+    {
+      "path": "images/IMG_0158/frame-000310.png",
+      "size_bytes": 2018705,
+      "sha256": "a74690e99e6e42a16bfbfb9d0efceea2c0ec11d8feb94123f45189203cdbc973"
+    },
+    {
+      "path": "images/IMG_0158/frame-000335.png",
+      "size_bytes": 2138185,
+      "sha256": "1fad67da3b6a7169791d0a0972a3368dce4d5f3f7216991b47d434b6dfbb83ae"
+    },
+    {
+      "path": "images/IMG_0158/frame-000355.png",
+      "size_bytes": 2373187,
+      "sha256": "dde27d26878cf6c80f97d80e571266c08c1796d389d2f0e428b9d11c4b4c2208"
+    },
+    {
+      "path": "images/IMG_0158/frame-000360.png",
+      "size_bytes": 2291730,
+      "sha256": "2795fb096cbb85e7284516a2a54aa8f5cdfc53a1d086637f4b57bd2085ea9652"
+    },
+    {
+      "path": "images/IMG_0158/frame-000380.png",
+      "size_bytes": 2305048,
+      "sha256": "fb1c08eb994a8403b038bfffbff8ee0dd45584e88f0a3e0d4c23401304f6057d"
+    },
+    {
+      "path": "images/IMG_0158/frame-000400.png",
+      "size_bytes": 2172928,
+      "sha256": "90c0b5315bdfe7f2fe0e2aa4ee17cc70ecb8a0e9474640e4070df32155b57dbb"
+    },
+    {
+      "path": "images/IMG_0158/frame-000435.png",
+      "size_bytes": 2381448,
+      "sha256": "90756a34c5e34c515be04fb1dc89cc475385e054569fd913c5bc4afeef8a4563"
+    },
+    {
+      "path": "images/IMG_0158/frame-000445.png",
+      "size_bytes": 2309907,
+      "sha256": "6b7f6f029f0d35503d2219e9c8ad72a35c57af7c59bad749226c1d24bd0ee2f0"
+    },
+    {
+      "path": "images/IMG_0159/frame-000000.png",
+      "size_bytes": 2036296,
+      "sha256": "a9ac5949df4a27d75e9208ad9235d1712697c2e4677d903ffb8e31ccfc81a3cd"
+    },
+    {
+      "path": "images/IMG_0159/frame-000020.png",
+      "size_bytes": 2322109,
+      "sha256": "18954bc76f0886c1aedf05b65dc103ffc097f5129d67eca6cad4d6bd84a00089"
+    },
+    {
+      "path": "images/IMG_0159/frame-000055.png",
+      "size_bytes": 2487294,
+      "sha256": "19b727ecb2287adc996ee60e7b1921eaa82f6d918746b0698d22d07405c22579"
+    },
+    {
+      "path": "images/IMG_0159/frame-000060.png",
+      "size_bytes": 2332206,
+      "sha256": "92ad781380a6239cbe11d10e7136895b656ad0707b35a11339d1c4453933a6ad"
+    },
+    {
+      "path": "images/IMG_0159/frame-000090.png",
+      "size_bytes": 2344949,
+      "sha256": "302d4b0cf9bcc493d912c85b8e16bfc17f468d76cbb29b9dd843267053a3a3ba"
+    },
+    {
+      "path": "images/IMG_0159/frame-000110.png",
+      "size_bytes": 2422766,
+      "sha256": "65bf8a6a2332224044c7d1ff39a20432371b81642bac4c7de0fb979203091296"
+    },
+    {
+      "path": "images/IMG_0159/frame-000125.png",
+      "size_bytes": 2438028,
+      "sha256": "8440b9141ebba4d7ce7f0c32032629d973911c69de3ece9f262598cc10f8d89f"
+    },
+    {
+      "path": "images/IMG_0159/frame-000155.png",
+      "size_bytes": 2461060,
+      "sha256": "e4e86bc4b6f63ae64ffdc9a4b80039a762cf585943f4f304a49cbc20531db8fb"
+    },
+    {
+      "path": "images/IMG_0159/frame-000170.png",
+      "size_bytes": 2199125,
+      "sha256": "54f7e5797e4b8f2946afca7ca5b4b97907c6e01b2e620a6cc361d9d6af96de4a"
+    },
+    {
+      "path": "images/IMG_0159/frame-000195.png",
+      "size_bytes": 2268380,
+      "sha256": "0900581a0b64a0bdb883c2784055bb2de83b30509ec5d736c69e350663028639"
+    },
+    {
+      "path": "images/IMG_0159/frame-000200.png",
+      "size_bytes": 2121300,
+      "sha256": "1e1a4e63cd174c16e4ba4fdd744ae0c1190de73511483cce91b14cdc628852aa"
+    },
+    {
+      "path": "images/IMG_0159/frame-000235.png",
+      "size_bytes": 2339722,
+      "sha256": "89256bf261bfa4ba3961d93909b4b925eb5d77a288658be4010f98a95388aeef"
+    },
+    {
+      "path": "images/IMG_0159/frame-000250.png",
+      "size_bytes": 2117674,
+      "sha256": "03f5e241f466695c29a62e48c5c3f4f666fef4acc49c5ad3c5d4cd4db6203ecd"
+    },
+    {
+      "path": "images/IMG_0159/frame-000275.png",
+      "size_bytes": 2360646,
+      "sha256": "4d94ce8feef65d7332a466af6d2ca10037f8084b6c77a3ef102d0b0f1a446824"
+    },
+    {
+      "path": "images/IMG_0159/frame-000290.png",
+      "size_bytes": 2176372,
+      "sha256": "fd0af694c5571df3ad39739399944019b23bd8a1aef6379a937a1d4ec2a27a49"
+    },
+    {
+      "path": "images/IMG_0159/frame-000300.png",
+      "size_bytes": 2217222,
+      "sha256": "e2b621d5edacb92dfde799ef315febc8fc7508812839af91915e78feecd5cb7b"
+    },
+    {
+      "path": "images/IMG_0159/frame-000320.png",
+      "size_bytes": 2062743,
+      "sha256": "2685d52f430e48ac1ddc90af1905e77a69de48789b54a6b90d3abd9ed95beb3b"
+    },
+    {
+      "path": "images/IMG_0159/frame-000345.png",
+      "size_bytes": 2201854,
+      "sha256": "f00f99aa789c770beae70a036ba88208750297471ec402d884c7e98cb1469af9"
+    },
+    {
+      "path": "images/IMG_0159/frame-000360.png",
+      "size_bytes": 2271963,
+      "sha256": "c5d54fb96f2b7385937ad5f512eca6bd80ca472da721cf77148bdc879a2ad7df"
+    },
+    {
+      "path": "images/IMG_0159/frame-000395.png",
+      "size_bytes": 2137511,
+      "sha256": "f8e87f057d040aa062e36de5049a33b46fa46ea4f20f68ab6d4cb7e545e15acb"
+    },
+    {
+      "path": "images/IMG_0159/frame-000405.png",
+      "size_bytes": 2350918,
+      "sha256": "d5071166779399150e6508bd43d3e332f03395112b8b4a17d1735feb02589d14"
+    },
+    {
+      "path": "images/IMG_0159/frame-000425.png",
+      "size_bytes": 2261518,
+      "sha256": "d26a1341597377a59b84480aba69cc3d36f791aaaed326beaa8eb1e0364b7d4c"
+    },
+    {
+      "path": "images/IMG_0159/frame-000455.png",
+      "size_bytes": 2354173,
+      "sha256": "28e48ae37b92423635876ec5533c4446f9cf955400bda41f0afff5f2359e45e9"
+    },
+    {
+      "path": "images/IMG_0159/frame-000460.png",
+      "size_bytes": 2285751,
+      "sha256": "575ee7fc095d537cd08fa523ec7821ec7b5213542c9328b6c97e8721967b4bba"
+    },
+    {
+      "path": "images/IMG_0159/frame-000485.png",
+      "size_bytes": 2331856,
+      "sha256": "e59ed1218b20dc4a78f04c42a4bb897d6a2f21c422cd143c79b70c751ec9d6b5"
+    },
+    {
+      "path": "images/IMG_0159/frame-000510.png",
+      "size_bytes": 2318443,
+      "sha256": "28d1d761f71e4038072deb85607faa37ccbc225ce682e1d98cbfd30be0d7dd09"
+    },
+    {
+      "path": "images/IMG_0159/frame-000535.png",
+      "size_bytes": 2160913,
+      "sha256": "3277502aebc37c50743c2d6c17ca45ad0a0e478062e87f003f9c00cb9a94a305"
+    },
+    {
+      "path": "images/IMG_0159/frame-000555.png",
+      "size_bytes": 2389457,
+      "sha256": "abfa97aa3603c50449de6db7ed17c5804a7a458e0cce5e0aa2dc84aa31f2abb9"
+    },
+    {
+      "path": "images/IMG_0159/frame-000575.png",
+      "size_bytes": 2422120,
+      "sha256": "26082d487e55d405295c0b4014fbf4c197caa39d2a17c4af9e9d2d55b0c9aeff"
+    },
+    {
+      "path": "images/IMG_0160/frame-000000.png",
+      "size_bytes": 2071988,
+      "sha256": "f51e91ebeb2e5b6bbd375eb868189912eb62190e0eb0e1a9c376a00ab4e5874f"
+    },
+    {
+      "path": "images/IMG_0160/frame-000025.png",
+      "size_bytes": 2214152,
+      "sha256": "1bcbf760da3f842a46eb2afc65beaf05764c1b6c9ace8f7e1e7e94971f0b6019"
+    },
+    {
+      "path": "images/IMG_0160/frame-000045.png",
+      "size_bytes": 2285572,
+      "sha256": "f0d96f0862b5e31c741a269bde8ce143420961422a77fe6b9e5f4c8c2552e58f"
+    },
+    {
+      "path": "images/IMG_0160/frame-000075.png",
+      "size_bytes": 2243203,
+      "sha256": "8231fb0c7aa483eb3e603129805a1a904f6702bcf668bdfd05b9d613172b6e4c"
+    },
+    {
+      "path": "images/IMG_0160/frame-000080.png",
+      "size_bytes": 2222062,
+      "sha256": "1438fb1dd23da87214d7cbcfedb4231d2313ec863b1bc73808c77880c0101e03"
+    },
+    {
+      "path": "images/IMG_0160/frame-000110.png",
+      "size_bytes": 1909169,
+      "sha256": "e83873df2901d64b89d9beeeae1fd71d84e14cb89d8d116760dc72ad98a227de"
+    },
+    {
+      "path": "images/IMG_0160/frame-000120.png",
+      "size_bytes": 1910432,
+      "sha256": "cefdb6466dd974be54cb15c1092ad7600187790323edca9b4d59d4c1c4c30501"
+    },
+    {
+      "path": "images/IMG_0160/frame-000150.png",
+      "size_bytes": 2058592,
+      "sha256": "a9507a7db72590a78e5a57d7d818f3e9cd948f32218d8c36c0e59c44068a14dd"
+    },
+    {
+      "path": "images/IMG_0160/frame-000170.png",
+      "size_bytes": 1769704,
+      "sha256": "3686c6267c0b3e1a78c4307463f9e0ef270fa2f661e726b4453b0c606b165441"
+    },
+    {
+      "path": "images/IMG_0160/frame-000185.png",
+      "size_bytes": 2029610,
+      "sha256": "6b6f1784b3520b33d09afffe43a69da5d440b99a476ebb5ec2479b5820d450c0"
+    },
+    {
+      "path": "images/IMG_0160/frame-000205.png",
+      "size_bytes": 1927075,
+      "sha256": "c9a69f8fd6e3348c591a3f654be23ef6a3498371bb54ee3861bea6dc47851e9d"
+    },
+    {
+      "path": "images/IMG_0160/frame-000235.png",
+      "size_bytes": 2122285,
+      "sha256": "d6a6b73175c1f1756bb480ee5fb00911cd81ac74b0576535caa47ac2b6deafe2"
+    },
+    {
+      "path": "images/IMG_0160/frame-000255.png",
+      "size_bytes": 1984662,
+      "sha256": "6e4d040a920f874d7cb39ddad986b7ab7034d5eb0c1b48bba4896f041ab870f4"
+    },
+    {
+      "path": "images/IMG_0160/frame-000270.png",
+      "size_bytes": 2078411,
+      "sha256": "8870c109857d9d946c7f3b6b3524e7641bae65a5e66b2b5e199c6fd8b0f2ceec"
+    },
+    {
+      "path": "images/IMG_0161/frame-000000.png",
+      "size_bytes": 2018087,
+      "sha256": "e7df9b3d00b8e0b7db97d66b830d218d4ed67b04447a7a47a9103b063c024f57"
+    },
+    {
+      "path": "images/IMG_0161/frame-000025.png",
+      "size_bytes": 2280884,
+      "sha256": "64ab8711c498b90f7bea8f320fed93c4caa5b7390f50e459cd5d524ec5eaaa67"
+    },
+    {
+      "path": "images/IMG_0161/frame-000050.png",
+      "size_bytes": 2378016,
+      "sha256": "85f5cd4ab6b7eae0a677be0d0f56782d5930e3a4fe51d583e2cb9f960be7ff0f"
+    },
+    {
+      "path": "images/IMG_0161/frame-000065.png",
+      "size_bytes": 2245662,
+      "sha256": "4597f54e27bffb990ca47ad18bce0d2fef80f6194801bbe6bcf40f8427296381"
+    },
+    {
+      "path": "images/IMG_0161/frame-000085.png",
+      "size_bytes": 2042391,
+      "sha256": "a46d329140dab35ba78e2fef852bb7d37e2449b2eb73b02407948611d50af3ac"
+    },
+    {
+      "path": "images/IMG_0161/frame-000110.png",
+      "size_bytes": 1875270,
+      "sha256": "cf2e10ff20a0c8e3654ad066d91cf51c4670e9e8bec61096c1d0ad2338fb2416"
+    },
+    {
+      "path": "images/IMG_0161/frame-000120.png",
+      "size_bytes": 1966638,
+      "sha256": "b0ae01a10b2298e6ee17b8b9b7d6960466cdd44819dc9c424930fb6574610331"
+    },
+    {
+      "path": "images/IMG_0161/frame-000140.png",
+      "size_bytes": 1609032,
+      "sha256": "545969bafcced3a38efef0a1f4512e5a81f00f0e362930282b75d7e9877d5ffd"
+    },
+    {
+      "path": "images/IMG_0161/frame-000165.png",
+      "size_bytes": 1874938,
+      "sha256": "52ef0b6a9dd4c9578786441e21d478f73c27e04a01ba88bd75cc0e35ea36fec9"
+    },
+    {
+      "path": "images/IMG_0161/frame-000180.png",
+      "size_bytes": 1961369,
+      "sha256": "a879f7e2013fef41eee81e29e0057d9439fc3fe53410a45020506f5df2424f4c"
+    },
+    {
+      "path": "images/IMG_0161/frame-000210.png",
+      "size_bytes": 2144243,
+      "sha256": "e3fb5a1623aa7c6f6e44d83ab761ab529708f0eb7bc5325dfe2eb5ab465dfd72"
+    },
+    {
+      "path": "images/IMG_0161/frame-000230.png",
+      "size_bytes": 2054931,
+      "sha256": "d2c050a03af046885161de9e02c2cbbdc9202ad940f37e9f46f7e2bccb75ef8a"
+    },
+    {
+      "path": "images/IMG_0161/frame-000245.png",
+      "size_bytes": 2345115,
+      "sha256": "41fd53b251b0f2e1c48d2eb124369e28e664eb190c6b7cd354643fb5ed2c5fbf"
+    },
+    {
+      "path": "images/IMG_0161/frame-000270.png",
+      "size_bytes": 2355349,
+      "sha256": "59fd9f27f579b2b23d4765e3e6ff4b0a826f3a1f11f15d6978cb1470d967a1f8"
+    },
+    {
+      "path": "images/IMG_0161/frame-000280.png",
+      "size_bytes": 2007471,
+      "sha256": "be30bcb83d63b8d1909f769598c54e1cc8154a89ca6794749f6e43b5bd7c2a2f"
+    },
+    {
+      "path": "images/IMG_0161/frame-000315.png",
+      "size_bytes": 2393822,
+      "sha256": "8c671cc48b80ba1fad5259a6a1525d7a2eeb70406feb81d88b3a0756952fa492"
+    },
+    {
+      "path": "images/IMG_0162/frame-000005.png",
+      "size_bytes": 2256650,
+      "sha256": "3976b444939a883fdfb5a4a36b583d64304f3c0ae959cd65f87898fd4f7645d5"
+    },
+    {
+      "path": "images/IMG_0162/frame-000025.png",
+      "size_bytes": 2408904,
+      "sha256": "fedf48c3efbb7807439e7344101fb90974120fd67059c048bf862432eb4d30dd"
+    },
+    {
+      "path": "images/IMG_0162/frame-000040.png",
+      "size_bytes": 2201609,
+      "sha256": "e3c1cdeaac88654c4020c79d2a4500bc252ecf0637f2e517ff0545efb7bf776d"
+    },
+    {
+      "path": "images/IMG_0162/frame-000060.png",
+      "size_bytes": 2089721,
+      "sha256": "7ca016a45dda8c7c4d33d2839092b24a5ea7cef1dc181c439e1458fe6151c8b7"
+    },
+    {
+      "path": "images/IMG_0162/frame-000095.png",
+      "size_bytes": 2206367,
+      "sha256": "050d6844dd77819feba166370037fd020ba50f17e0b0130344f9dc0556cbc41d"
+    },
+    {
+      "path": "images/IMG_0162/frame-000110.png",
+      "size_bytes": 2123055,
+      "sha256": "a9812a5a07810b23b0e0f6338be82d6523bdd5ddf81bbba19924a87f7475ddea"
+    },
+    {
+      "path": "images/IMG_0162/frame-000120.png",
+      "size_bytes": 2020186,
+      "sha256": "772ab30405aad76201e8e5428a9270a5a25224d9a3fba147b308da6f04c67309"
+    },
+    {
+      "path": "images/IMG_0162/frame-000145.png",
+      "size_bytes": 1936614,
+      "sha256": "6e11bd394c9519408f69aa059ddab1053739d3b0bd6f04433cfdc0dd4c2918d2"
+    },
+    {
+      "path": "images/IMG_0162/frame-000165.png",
+      "size_bytes": 2097524,
+      "sha256": "32d26f129b32e21ef1bb9f2c8ba3453b2cd4e52feb8dece87fbaa1620ef33608"
+    },
+    {
+      "path": "images/IMG_0162/frame-000185.png",
+      "size_bytes": 2114330,
+      "sha256": "974635ce70aa7ef56e0e6af872e67a1d633c7d1a4c39570122c91a866bfb24cd"
+    },
+    {
+      "path": "images/IMG_0162/frame-000200.png",
+      "size_bytes": 1553078,
+      "sha256": "68802995a32ed7d848e8ce1e1b8c140bfb89f066c8d8cf9a7b334b67a6b97262"
+    },
+    {
+      "path": "images/IMG_0162/frame-000220.png",
+      "size_bytes": 1843341,
+      "sha256": "697dcf0716ad1b5483c12c316ebc2730f02880c47412733fe730c2cfb0a59191"
+    },
+    {
+      "path": "images/IMG_0162/frame-000250.png",
+      "size_bytes": 1655056,
+      "sha256": "2c55c67c17d7f3a55008ae793f5c23321e0f2e268f64c1b56c02ea6e8b46f770"
+    },
+    {
+      "path": "images/IMG_0162/frame-000260.png",
+      "size_bytes": 1696135,
+      "sha256": "8fa4a49d613bc76de1608f786bdea318255c56cda1fea472be65a6427db5f926"
+    },
+    {
+      "path": "images/IMG_0162/frame-000295.png",
+      "size_bytes": 1766663,
+      "sha256": "3d9360c7366fa66bcbfed30ecea28ef6ad710f9eb4819124adbb2ea3f0921f8e"
+    },
+    {
+      "path": "images/IMG_0162/frame-000315.png",
+      "size_bytes": 1597920,
+      "sha256": "33c427bfdc554ef252cb9035708fd28e497bd096e22ba46b02c94e89139621f0"
+    },
+    {
+      "path": "images/IMG_0162/frame-000325.png",
+      "size_bytes": 1713143,
+      "sha256": "61ae988a19d16c280235ef7d1f1abab25cbdb1163fcc62a282ef4fcccea71ecb"
+    },
+    {
+      "path": "images/IMG_0163/frame-000010.png",
+      "size_bytes": 2572183,
+      "sha256": "89ab56778aa0204c678ade0cefb0d026039645e9ccd34c77c4c25ae1ff0d030b"
+    },
+    {
+      "path": "images/IMG_0163/frame-000025.png",
+      "size_bytes": 2523726,
+      "sha256": "c65fcdd9cadc0bb36d83bf87d80498879dd89bef6a772c724991619799652c13"
+    },
+    {
+      "path": "images/IMG_0163/frame-000055.png",
+      "size_bytes": 2446393,
+      "sha256": "4f06e0ab27a51bacacefa64a87715fdd8e954f4116c1af617164030d312b3a65"
+    },
+    {
+      "path": "images/IMG_0163/frame-000075.png",
+      "size_bytes": 2586309,
+      "sha256": "5785efe60aa20f4c738aa7a7c0c55bf28bce16372d8a3ca27479010656d931d4"
+    },
+    {
+      "path": "images/IMG_0163/frame-000090.png",
+      "size_bytes": 2456885,
+      "sha256": "33eceb45a4d04031356161ecc25645c6bda5c6b47b14a8e1449c8133208a9946"
+    },
+    {
+      "path": "images/IMG_0163/frame-000100.png",
+      "size_bytes": 2421264,
+      "sha256": "e7d0a74cfd67b489941ff81acfac71e7255708004a1675dd6bf407d5b76d4d72"
+    },
+    {
+      "path": "images/IMG_0163/frame-000135.png",
+      "size_bytes": 2543408,
+      "sha256": "d51192b9f14550feafd849d93bccd6778ae64f1e058e937c4d3f1a2218c94c76"
+    },
+    {
+      "path": "images/IMG_0163/frame-000140.png",
+      "size_bytes": 2061750,
+      "sha256": "0db70438e80d869e15a3867a647bcce98eaabe635b7bd3fd967c7e67f99c29d5"
+    },
+    {
+      "path": "images/IMG_0163/frame-000170.png",
+      "size_bytes": 2110753,
+      "sha256": "59e904730ca7b63f51c79b22f825098f0b2638df8beffbc827e2191a0fc6fa8f"
+    },
+    {
+      "path": "images/IMG_0163/frame-000190.png",
+      "size_bytes": 2390255,
+      "sha256": "205248a9e84e3e196892446862436b1d5eba108a2af86434c1b3a9408f238eb0"
+    },
+    {
+      "path": "images/IMG_0163/frame-000215.png",
+      "size_bytes": 2355506,
+      "sha256": "76e9e5df5e387ff955843c87d38ca6edad690c9791c686167e3d64a74863a986"
+    },
+    {
+      "path": "images/IMG_0163/frame-000220.png",
+      "size_bytes": 2301090,
+      "sha256": "812900466a83c181520ed393fc3f308d6f33ccccee69bf539ecce4dd89b3dd58"
+    },
+    {
+      "path": "images/IMG_0163/frame-000240.png",
+      "size_bytes": 2158397,
+      "sha256": "a9f7bdf79b43b578b169b3a2acb233ac5c9d8bbb7f688cebcee99f24351755e1"
+    },
+    {
+      "path": "images/IMG_0163/frame-000260.png",
+      "size_bytes": 2088959,
+      "sha256": "5c76a95cb3b75db92badcb0e7069f1c12e74dcc940d45904f78fd3a49fd9c338"
+    },
+    {
+      "path": "images/IMG_0163/frame-000280.png",
+      "size_bytes": 1957881,
+      "sha256": "dfdc5417b133b4f8bda8a689733c450854df535bde87d9ef2980e0b9321a3179"
+    },
+    {
+      "path": "images/IMG_0163/frame-000300.png",
+      "size_bytes": 2325780,
+      "sha256": "45440667291ef6ea43d52b8ba7b08d14559cbce20b9206df9f4f1660c2f1fac6"
+    },
+    {
+      "path": "images/IMG_0163/frame-000330.png",
+      "size_bytes": 2458242,
+      "sha256": "cad69bd5066032c0f08896016d217bc895e8823d499b58ebce99d995e0a37744"
+    },
+    {
+      "path": "images/IMG_0164/frame-000010.png",
+      "size_bytes": 2435046,
+      "sha256": "8ec82998fa2ffffa9bb9cde394e66f51e5e730c81344f6ed589ca9beb5de8562"
+    },
+    {
+      "path": "images/IMG_0164/frame-000025.png",
+      "size_bytes": 2504855,
+      "sha256": "3d2e818df76ffe47f7ca2011bc02cbcd3520455830e73c344cbdce3ae2797b57"
+    },
+    {
+      "path": "images/IMG_0164/frame-000040.png",
+      "size_bytes": 2293039,
+      "sha256": "0eb876072cac9696702bebbe329d846c509283caca0909587edd6df41287f6eb"
+    },
+    {
+      "path": "images/IMG_0164/frame-000075.png",
+      "size_bytes": 2394516,
+      "sha256": "d075456e35a5f3caf9dd0fde148865595906c29bf8d7fab5702bc8f3ef1202fb"
+    },
+    {
+      "path": "images/IMG_0164/frame-000095.png",
+      "size_bytes": 2314852,
+      "sha256": "00a6b5dddb02403327fa4c6d0f27000dcacef8ceb530a1c612163f19121d71c4"
+    },
+    {
+      "path": "images/IMG_0164/frame-000100.png",
+      "size_bytes": 2311049,
+      "sha256": "8ae5999c2330dd7f282209cd2c610b1c527d3414d02072e3fcd51efbefa0db8a"
+    },
+    {
+      "path": "images/IMG_0164/frame-000125.png",
+      "size_bytes": 2265837,
+      "sha256": "1a6c38c3f0e113628ccf101e8a26e97096127966ed1a38475bc75844ebc69c66"
+    },
+    {
+      "path": "images/IMG_0164/frame-000155.png",
+      "size_bytes": 2373168,
+      "sha256": "2bd71087894c68966f998014cf12735b02af765f5261824ae05f296a487ffdfe"
+    },
+    {
+      "path": "images/IMG_0164/frame-000160.png",
+      "size_bytes": 2349265,
+      "sha256": "2062e9951d85c831b6322861e1f4fe4e4ba99d44817ba5125a127d5a335facb5"
+    },
+    {
+      "path": "images/IMG_0164/frame-000195.png",
+      "size_bytes": 2076442,
+      "sha256": "74dfb91d0d5156fb395598adef736a30347c1eea3a7ac5af3f912a485b06c17b"
+    },
+    {
+      "path": "images/IMG_0164/frame-000200.png",
+      "size_bytes": 2045750,
+      "sha256": "861422c91c2f8c0f97568a36136afa8e3c60f671adf04e2412d0b369293b7f46"
+    },
+    {
+      "path": "images/IMG_0164/frame-000230.png",
+      "size_bytes": 2226748,
+      "sha256": "3e49d4d625f1b34351ce483312811fefe6bbf11db54082a997196b06f25bfa2e"
+    },
+    {
+      "path": "images/IMG_0164/frame-000255.png",
+      "size_bytes": 2246673,
+      "sha256": "551c5022c72663f57fc17e64fc7ed04954857d398a39c4ae3655ce627c1f66da"
+    },
+    {
+      "path": "images/IMG_0165/frame-000000.png",
+      "size_bytes": 1890848,
+      "sha256": "e9831ded5407bcaa651b4234fc71b66c16b492a0e381adeb989e80280de528fb"
+    },
+    {
+      "path": "images/IMG_0165/frame-000035.png",
+      "size_bytes": 2163555,
+      "sha256": "8f421faa0cf23c4045b729bc51de9fb61dfe3ae178770fa5907a8ae37761f791"
+    },
+    {
+      "path": "images/IMG_0165/frame-000040.png",
+      "size_bytes": 2127438,
+      "sha256": "a72ca20078293e324c2fc681a3530f8fec3ebe8d0222deb6b7ccebcc39bd9746"
+    },
+    {
+      "path": "images/IMG_0165/frame-000065.png",
+      "size_bytes": 2285289,
+      "sha256": "dcda8880d0afa50133b444d597175cdbe6bf563c6d7289abc4efe160e8f5ad41"
+    },
+    {
+      "path": "images/IMG_0165/frame-000080.png",
+      "size_bytes": 2433563,
+      "sha256": "34f28f0f395409dc0445c19e97c368e1b3af9c1aa5728c278391122e843137b7"
+    },
+    {
+      "path": "images/IMG_0165/frame-000115.png",
+      "size_bytes": 2155265,
+      "sha256": "9a5f208c072c1845dc865a5edef0f3c78df078668a825e5d5c0218d2fd84aae1"
+    },
+    {
+      "path": "images/IMG_0165/frame-000125.png",
+      "size_bytes": 2280749,
+      "sha256": "f3f2b2551fd1c14dd41e9c744267c2ae3895c215101432981464c2db6270e9b3"
+    },
+    {
+      "path": "images/IMG_0165/frame-000145.png",
+      "size_bytes": 2005307,
+      "sha256": "98952bb61256ec11a54b654e6b09e0ccda492a35175149c9f7651e169f15ab07"
+    },
+    {
+      "path": "images/IMG_0165/frame-000165.png",
+      "size_bytes": 2020096,
+      "sha256": "473d0c14448030a6bac438ef7848f2fe2628780a1a5217d21656a4bec375d2d5"
+    },
+    {
+      "path": "images/IMG_0165/frame-000185.png",
+      "size_bytes": 2118688,
+      "sha256": "cb600396698b1bc379d5d70735173e1d11205db52da4b2e5319d94bd10b6d2f9"
+    },
+    {
+      "path": "images/IMG_0165/frame-000215.png",
+      "size_bytes": 2330712,
+      "sha256": "897c5732f4057358e53192316505bc26ae420aab366e2a21c203583afd967f39"
+    },
+    {
+      "path": "images/IMG_0165/frame-000225.png",
+      "size_bytes": 2031734,
+      "sha256": "53045ccd9b52db01f85689c7b5f196a9cd34d0c218448cc0cf0a1357ffa19dbe"
+    },
+    {
+      "path": "images/IMG_0165/frame-000250.png",
+      "size_bytes": 2115433,
+      "sha256": "50081ed7b5e14720f6469db6ab6e0f4d38a24cd3c32e3cade4a4ff0fb021ba18"
+    },
+    {
+      "path": "images/IMG_0165/frame-000270.png",
+      "size_bytes": 2239189,
+      "sha256": "267764616854bfd7070d3c9ea4118b01ababde82e60c435508a2afd553d125e4"
+    },
+    {
+      "path": "images/IMG_0165/frame-000280.png",
+      "size_bytes": 1908426,
+      "sha256": "b1f78e66759ea5f796d6839e6c139489c6ac186dd68ab1d82b5d99f4f907eb0e"
+    },
+    {
+      "path": "images/IMG_0165/frame-000315.png",
+      "size_bytes": 2261038,
+      "sha256": "1b99f3ac218813f20243a0c38638a5be0d222277fa7915fb67c284bab736cc1a"
+    },
+    {
+      "path": "images/IMG_0165/frame-000325.png",
+      "size_bytes": 2318650,
+      "sha256": "6593bff18c3de4c7bfc18f3b926e8fb78d2668d91f84508d7104a52cf5975065"
+    },
+    {
+      "path": "images/IMG_0165/frame-000350.png",
+      "size_bytes": 2174471,
+      "sha256": "cdf5cf2ad1a644857990529bf41a0193a1e1981741df10791c0ea29c95ae6ead"
+    },
+    {
+      "path": "images/IMG_0165/frame-000360.png",
+      "size_bytes": 2218929,
+      "sha256": "d71dfa5d0086ee002f16495d24ccab685b557f9793fcf63e30a22d860570a89a"
+    },
+    {
+      "path": "images/IMG_0165/frame-000385.png",
+      "size_bytes": 2258721,
+      "sha256": "a2aae12aae3f16198062d4fc324e7d471030602b8eb89380ae23a89f68c39786"
+    },
+    {
+      "path": "images/IMG_0165/frame-000400.png",
+      "size_bytes": 2051361,
+      "sha256": "b37630f7161a9e7cbcd5e0ec358c38bae0c0fab55aadcebedd12f50928f3895d"
+    },
+    {
+      "path": "images/IMG_0165/frame-000425.png",
+      "size_bytes": 2071910,
+      "sha256": "f5d77ae697794c52b6ac5d3f0ece6410ddf1f4e90c25bf0a92ca1a8d917ac088"
+    },
+    {
+      "path": "images/IMG_0165/frame-000450.png",
+      "size_bytes": 1935912,
+      "sha256": "e0c1bb84b198fdfa6aaadfc999112f1dae3aba41075d868967a98f63befcb028"
+    },
+    {
+      "path": "images/IMG_0165/frame-000460.png",
+      "size_bytes": 2105393,
+      "sha256": "8f12c1b40bd38fddaf7f93a8e32ca27a38bba556c0c13f2adf783c0940998e16"
+    },
+    {
+      "path": "images/IMG_0166/frame-000000.png",
+      "size_bytes": 2117114,
+      "sha256": "0afd14a902d20c6a4738f2624141c4d7e3ed08777e727941eb3ad8dbdd90d6bc"
+    },
+    {
+      "path": "images/IMG_0166/frame-000020.png",
+      "size_bytes": 2474931,
+      "sha256": "655f9c0e63ac3a0fb5136b583d4430b13b4f152c6ff89dcf49884439a2b96206"
+    },
+    {
+      "path": "images/IMG_0166/frame-000040.png",
+      "size_bytes": 2239769,
+      "sha256": "7e6d8403d0d30f8b31aaa80bb270466267ae3e489d32a09f070008d9b805070d"
+    },
+    {
+      "path": "images/IMG_0166/frame-000065.png",
+      "size_bytes": 2360182,
+      "sha256": "2df4672b98e6c7f614321ad13e377fb06e05d69ab83aed92b45944b773810c5a"
+    },
+    {
+      "path": "images/IMG_0166/frame-000090.png",
+      "size_bytes": 2335343,
+      "sha256": "b0413a499c04fb3a1c1ee6a7f95ab100bf7cbef4657fa0dc253f9e6a538f87da"
+    },
+    {
+      "path": "images/IMG_0166/frame-000110.png",
+      "size_bytes": 2487681,
+      "sha256": "d74d6208804396a7f38074db9f38ed25c7a8b41a200810f45ea086d9e2e51133"
+    },
+    {
+      "path": "images/IMG_0166/frame-000120.png",
+      "size_bytes": 2370362,
+      "sha256": "5306641589e0082144b53e9152094882068b5a0c6ce4fee0ed39891b47339d3a"
+    },
+    {
+      "path": "images/IMG_0166/frame-000150.png",
+      "size_bytes": 2435150,
+      "sha256": "b9726a58198bfd61f1ee36cb33fde9d8465a7630f365fe3dba93806011728141"
+    },
+    {
+      "path": "images/IMG_0166/frame-000160.png",
+      "size_bytes": 2510301,
+      "sha256": "5e916bc27136a33c9814d1bf60e06d5555c5c58333c5585b9dd1fbe2efeae88f"
+    },
+    {
+      "path": "images/IMG_0166/frame-000190.png",
+      "size_bytes": 2597159,
+      "sha256": "1e47a3f827983096fceef88e90b2e7ea7cc774241c9f523311802200aafaa2d4"
+    },
+    {
+      "path": "images/IMG_0166/frame-000215.png",
+      "size_bytes": 2566134,
+      "sha256": "9867df8fb41ebcd61a87669a904e78d95248eba991fdba0e9b41022537259fa6"
+    },
+    {
+      "path": "images/IMG_0166/frame-000230.png",
+      "size_bytes": 2376457,
+      "sha256": "56b4b936a2f8eba2ed9f51fc6c27dac4bcdf30686b85a356cc5cd2696ead9352"
+    },
+    {
+      "path": "images/IMG_0166/frame-000255.png",
+      "size_bytes": 2302500,
+      "sha256": "f2351894690af2b70ceed3d42c676a674630eea1deff05adeeae96956693f5ab"
+    },
+    {
+      "path": "images/IMG_0166/frame-000275.png",
+      "size_bytes": 2520196,
+      "sha256": "bb48d932f19a02ab0b48d0ad8e168557e19faceeefad0b5efeeede6704718944"
+    },
+    {
+      "path": "images/IMG_0166/frame-000295.png",
+      "size_bytes": 2455525,
+      "sha256": "b0f7c9db5b138714ce8bf2295a8f6248786ae457880d5dffd9d55e027c412bba"
+    },
+    {
+      "path": "images/IMG_0166/frame-000310.png",
+      "size_bytes": 2129553,
+      "sha256": "7ae95168d147e15487142845210bf89b30e65c35c9ab671cf65d48b7c309a155"
+    },
+    {
+      "path": "images/IMG_0166/frame-000320.png",
+      "size_bytes": 2262573,
+      "sha256": "1d36b197115f248824a1cde376e1c119385587b3c2affe07bc580f7de1f0bab6"
+    },
+    {
+      "path": "images/IMG_0166/frame-000340.png",
+      "size_bytes": 2193373,
+      "sha256": "08ccb0696ed5bf5ec8f3bf9b62f46f7317eba12bc918bf7b8db41f45dc9cc0a0"
+    },
+    {
+      "path": "images/IMG_0166/frame-000370.png",
+      "size_bytes": 2212371,
+      "sha256": "da059870e18721c4be7cee3f0e24830a6d4aa6f5d2cf254976d6d6e7a618c901"
+    },
+    {
+      "path": "images/IMG_0166/frame-000390.png",
+      "size_bytes": 2108867,
+      "sha256": "032a6da213c4e94e469b5ce9cade73c89a634ff5a72f85361089346926f0d41a"
+    },
+    {
+      "path": "images/IMG_0166/frame-000410.png",
+      "size_bytes": 2323001,
+      "sha256": "2412470761b595ed99f6e5e78e7cebae89905c6d43d915090eb87bd5c42b473b"
+    },
+    {
+      "path": "images/IMG_0166/frame-000425.png",
+      "size_bytes": 2210582,
+      "sha256": "be7f3e01bde5f9cac0df1a3e125f9fc89fbd60cc712764f2b428da84cbbce72a"
+    },
+    {
+      "path": "images/IMG_0166/frame-000445.png",
+      "size_bytes": 2359059,
+      "sha256": "bcd5afdd81e9117270a3736c08fda01e67e0d200f9b56094a2f43b1f8b9f9921"
+    },
+    {
+      "path": "images/IMG_0166/frame-000465.png",
+      "size_bytes": 2365651,
+      "sha256": "15808ddc7cc51239cc37b9e84a02c50a4004274d788fa96736a3a23e1399597c"
+    },
+    {
+      "path": "images/IMG_0166/frame-000485.png",
+      "size_bytes": 2312925,
+      "sha256": "6afac772c4c0a1ced74c74c4b25d7085d81f43e883f71ffba7d2234784a4b80f"
+    },
+    {
+      "path": "images/IMG_0166/frame-000505.png",
+      "size_bytes": 2191960,
+      "sha256": "0e3da38deb2988f5c81b108b91d45355869a717ba678158a0a6dfb3900494ab8"
+    },
+    {
+      "path": "images/IMG_0166/frame-000535.png",
+      "size_bytes": 2417572,
+      "sha256": "d3a0aac24ca7ba4da175f54bcca1472b7b01f984e7d17a48ebb220f8762b6859"
+    },
+    {
+      "path": "images/IMG_0167/frame-000000.png",
+      "size_bytes": 2045810,
+      "sha256": "d46d681a2cee5b0b921f8170103d715ba56bb44d4c90d2edb23cc646ab315cd8"
+    },
+    {
+      "path": "images/IMG_0167/frame-000030.png",
+      "size_bytes": 2251555,
+      "sha256": "4259f438489ececf00d22b8356c94832af9607c8a0282e4546ad20488b46b104"
+    },
+    {
+      "path": "images/IMG_0167/frame-000040.png",
+      "size_bytes": 2279844,
+      "sha256": "6fd2ae3e265d8b97c1f9c831f4a2a91f73d19f177230967bd8ac0779badb7dac"
+    },
+    {
+      "path": "images/IMG_0167/frame-000070.png",
+      "size_bytes": 2371303,
+      "sha256": "999f1e8a423a33d7bbad3f67dd230cfad58dfe0095379b39cf0614f8abfc88c7"
+    },
+    {
+      "path": "images/IMG_0167/frame-000090.png",
+      "size_bytes": 2307715,
+      "sha256": "9ea5eee53219727c4b577768b809f029396608ebcaf819f71caa4b49015d2f87"
+    },
+    {
+      "path": "images/IMG_0167/frame-000100.png",
+      "size_bytes": 2404303,
+      "sha256": "ee63d0d08821a780d3fef72da2e054e6622d0926739722c13cbda1d62afb2a7f"
+    },
+    {
+      "path": "images/IMG_0167/frame-000120.png",
+      "size_bytes": 2150025,
+      "sha256": "4a60d573299827d9386a48285d7484f16e2d8aa6c04e139b39c8e40e27d6b09b"
+    },
+    {
+      "path": "images/IMG_0167/frame-000155.png",
+      "size_bytes": 2337771,
+      "sha256": "7604c343af2cc0d54d48a8ee786e4ccbe8a037e017e0395e8be021da0f77a743"
+    },
+    {
+      "path": "images/IMG_0167/frame-000175.png",
+      "size_bytes": 2241328,
+      "sha256": "f5eca4c8510cbe4ba1270af43535a943d9c5ece77f36fdc03d77fd8c4244ea7c"
+    },
+    {
+      "path": "images/IMG_0167/frame-000180.png",
+      "size_bytes": 2244977,
+      "sha256": "a51627bd07d910dd5baddc6e763796ad7e518dcc434d5fb290ab868d3cfdf083"
+    },
+    {
+      "path": "images/IMG_0167/frame-000205.png",
+      "size_bytes": 2245425,
+      "sha256": "01d5f79efa04efbfa62fc9c35433b7e00db008ef573e249e40a602234a615c7c"
+    },
+    {
+      "path": "images/IMG_0167/frame-000220.png",
+      "size_bytes": 2304740,
+      "sha256": "f3955488703affd5576a1f5a1a2b47de8bd0a0ce94affaa0801905c5f6494453"
+    },
+    {
+      "path": "images/IMG_0167/frame-000245.png",
+      "size_bytes": 2347954,
+      "sha256": "18fc5e05030f0525ae83ee74491ffab11f2411ee6001ab6920b88f1926879af8"
+    },
+    {
+      "path": "images/IMG_0167/frame-000265.png",
+      "size_bytes": 2325347,
+      "sha256": "5ed0e852540741247e39eaa833bf18210072cf21dced87988937d3b491da017d"
+    },
+    {
+      "path": "images/IMG_0167/frame-000295.png",
+      "size_bytes": 2361880,
+      "sha256": "a45904e6a055d27d383485916dea616c5d819e566bdee68d681b69999934756d"
+    },
+    {
+      "path": "images/IMG_0167/frame-000310.png",
+      "size_bytes": 2157730,
+      "sha256": "02455eb7f594be0ba3466c31d6f21b0bee824386ba50fe3f26f9db18579f16c8"
+    },
+    {
+      "path": "images/IMG_0167/frame-000320.png",
+      "size_bytes": 2289706,
+      "sha256": "aa7411888ac7c28685ad905d581366247f64a8315158e000d3a0c3be6437d3ab"
+    },
+    {
+      "path": "images/IMG_0167/frame-000355.png",
+      "size_bytes": 2541727,
+      "sha256": "ad64feace5e514236f2c71ed0279c91c87533843775eeba96934fba882102e64"
+    },
+    {
+      "path": "images/IMG_0167/frame-000370.png",
+      "size_bytes": 2297256,
+      "sha256": "71e92faf14460f2752c63e69220be5fa20d38474e265f440d775999425ad0b18"
+    },
+    {
+      "path": "images/IMG_0167/frame-000380.png",
+      "size_bytes": 2333967,
+      "sha256": "966bc34a70105ec06c0660abe5e719980b2919cf336f6feb9613c19babf821bb"
+    },
+    {
+      "path": "images/IMG_0167/frame-000410.png",
+      "size_bytes": 2449128,
+      "sha256": "1fe185b79ee627826df2065ad2cadabf1160284aca5768477a0fc93428d3feec"
+    },
+    {
+      "path": "images/IMG_0167/frame-000430.png",
+      "size_bytes": 2453937,
+      "sha256": "37ab591dcaf562b4a8e0d546ed35962d5f0bd503c91a388fae019ff1f81a81bd"
+    }
+  ]
+}

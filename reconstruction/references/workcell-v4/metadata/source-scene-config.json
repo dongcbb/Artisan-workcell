@@ -1,0 +1,21 @@
+{
+  "scene_id": "workcell-v4",
+  "status": "NATIVE_GAUSSIAN_SCENE_VERIFIED",
+  "environment_usd": "assets/workcell-v4/physics/run-20261025-122516-471406/collision.usdc",
+  "environment_manifest": "assets/workcell-v4/physics/run-20261025-122516-471406/manifest.json",
+  "geometry_run": "outputs/workcell-v4/scene-geometry/run-20261025-122516-471406",
+  "robot_layout": "configs/workcells/workcell-v4-open-nero.json",
+  "table_alignment": "configs/workcells/workcell-v4-table-accepted.json",
+  "metric_alignment_verified": false,
+  "static_scene_load_verified": true,
+  "grasp_tests_run": false,
+  "viewer": "scripts/run-workcell-scene.sh",
+  "preview_report": "outputs/workcell-v4/isaac-scene/run-20261025-152007-609635/report.json",
+  "interactive_entrypoint": "scripts/run-workcell-scene.sh",
+  "retired_preview_tools_manifest": "outputs/maintenance/retire-preview-tools-20261025-142647/manifest.json",
+  "gaussian_asset": "assets/workcell-v4/native-gaussian/fit-20261025-150951/step-12000/appearance.usdc",
+  "gaussian_manifest": "assets/workcell-v4/native-gaussian/fit-20261025-150951/step-12000/manifest.json",
+  "render_backend": "isaac_native_particle_field_sh3",
+  "native_renderer_verified": true,
+  "task_collector_connected": false
+}

@@ -25,6 +25,16 @@
 
 <br>
 
+## 本地项目：workcell-v4 重建
+
+本仓库也用于按原工作台照片重建一套独立的 3D 仿真场景。Artisan 官方代码和说明保留在仓库根目录；场景约束、参考照片、资产拆分和生成计划从 [重建项目说明](reconstruction/README.md) 开始。
+
+首轮目标是还原原工作台、电脑塔、周边桌柜、纸箱和背景设备，并保留 NERO 双臂的真实运动学模型。整场景将用 MuJoCo 组装；Artisan 逐件生成可编辑物体，不负责自动从一张全景照重建整个房间。桌面视觉尺寸已确认，安装位置和未测量物体的尺寸会显式标成近似值。
+
+原始 202 张参考图、相机位姿、接触表和已接受的桌面/机械臂摆放快照位于 `reconstruction/references/workcell-v4/`。照片已复制到本地工作树，因体积较大已在 Git 中忽略；运行新工程不依赖旧 Re3Sim 工程。
+
+---
+
 <p align="center">
   <img src="assets/teaser.png" width="97%" alt="Artisan teaser">
 </p>
